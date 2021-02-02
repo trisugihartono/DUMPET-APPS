@@ -1,2 +1,5 @@
-# DUMPET-APPS
-Aplikasi DUMPET APPS merupakan aplikasi keuangan digital berbasis Mobile Android. Aplikasi ini dibuat menggunakan Aplikasi Android Studio dan Database FIREBASE
+# UASAMUB_DUMPET_TI7J
+
+NAMA KELOMPOK :
+ADE SAPUTRA - 1711500105
+ANDIKA YURFANZA PUTRA - 1711500095
